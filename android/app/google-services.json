@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345194398510",
+    "firebase_url": "https://snet-chat.firebaseio.com",
+    "project_id": "snet-chat",
+    "storage_bucket": "snet-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345194398510:android:758f65af48d6f6aedc30bf",
+        "android_client_info": {
+          "package_name": "com.laxo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345194398510-r7sm15j4idj6oql1eir22437ehiqb365.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD41TKi2osVLQ_cLcPQJ_IqEjZMgsbJJCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345194398510-r7sm15j4idj6oql1eir22437ehiqb365.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
